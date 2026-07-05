@@ -1,6 +1,11 @@
+/**
+ * Main class for CS400 A03.VersionControl activity Spring - 2025
+ * @author: Holly Li, wli682
+ **/
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Why is beef stew a bad password?");
-	    System.out.println("<punchline>");
+        System.out.println("It isn't stew!");
     }
 }
